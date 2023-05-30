@@ -3,7 +3,8 @@ Pre-processing and extracting relevant information form an 800mb consolidated XM
 
 <br>
 ## Abstract
-The objective of this project is to identify the problem that a patent aims to solve by using text summarization techniques. To achieve this, I used an 800 MB XML file containing patent information as our input, from which the patent ID and description were extracted. After cleaning the data and extracting the description, used GPT-3's Davinci model to obtain embeddings and ask it to summarize the problem the patent claims to solve. Subsequently, I analyzed and cluster the embeddings obtained from the language model to gain insights into the data. This project can potentially improve patent analysis and enhance our understanding of the problems that patents aim to solve.
+The objective of this project is to identify the problem that a patent aims to solve by using text summarization techniques. To achieve this, I used an 800 MB XML file containing patent information as our input, from which the patent ID and description were extracted. After cleaning the data and extracting the description, used GPT-3's Davinci model to obtain embeddings and ask it to summarize the problem the patent claims to solve. Subsequently, I analyzed and cluster the embeddings obtained from the language model to gain insights into the data. This project can potentially improve patent analysis and enhance our understanding of the problems that patents aim to solve. <br>
+Data can be obtained at the USPTO website.
 
 <br>
 

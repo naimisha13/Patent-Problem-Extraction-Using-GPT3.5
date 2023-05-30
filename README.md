@@ -16,7 +16,7 @@ Although we made progress in extracting problem statements from a subset of pate
 Additionally, it would be valuable to investigate different techniques for data preprocessing and information extraction from the XML file. Exploring advanced natural language processing algorithms or utilizing domain-specific knowledge could potentially improve the quality and relevance of the extracted information.<br>
 In conclusion, while this project has provided valuable insights into utilizing large language models for understanding the problem statements of patents, there are still areas for improvement and open problems to address. With advancements in model capacity and refined data processing techniques, we anticipate enhanced results and further advancements in automating the analysis of patent documents.
 
-## Perfprmance on random 100 patents
+## Performance on random 100 patents
 <img width="786" alt="image" src="https://github.com/naimisha13/Patent-Problem-Extraction-Using-GPT3.5/assets/36668575/e5632976-2188-4ebc-87e8-afba0bb7f908">
 
 ## Output of clustering
